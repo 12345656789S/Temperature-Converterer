@@ -1,1 +1,20 @@
-# Temperature-Converterer
+# Temperature Converter
+
+A simple Temperature Converter website built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Convert Celsius to Fahrenheit
+- Convert Fahrenheit to Celsius
+- Simple and user-friendly interface
+- Responsive design
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Author
+
+Payal Malkotia
